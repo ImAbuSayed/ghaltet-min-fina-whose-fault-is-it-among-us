@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي فيك بيموت
+> حبك نار وعيوني لك بيوت
+> عيش معايا في حضن السكوت
+> أنت الحب وكل الهوى
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
