@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ghaltet-min-fina-whose-fault-is-it-among-us/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Ghaltet Min Fina – Whose fault is it among us?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
