@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghaltet Min Fina – Whose fault is it among us?
+
+This log tracks the cryptographic history and versioning for the song **Ghaltet Min Fina – Whose fault is it among us?** (ghaltet-min-fina-whose-fault-is-it-among-us).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:02:21.960502 | `v1` | `79cfe58a752bfaca409c3682191c2e25ec74832e7273025bbfff9c90bf58291e` | `5e08db1fc87c16431ec4c41efa9a18224f47e3e08e9ff5606d5cb33575cc50d2` | `2026-05-09_ghaltet-min-fina-whose-fault-is-it-among-us-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
